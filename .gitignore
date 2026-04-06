@@ -1,20 +1,4 @@
-# OS
 .DS_Store
-Thumbs.db
-
-# Editors
-.vscode/
+__pycache__/
 .idea/
-*.swp
-*.swo
-
-# Environment
-.env
-.env.local
-
-# Generated wiki content (users generate their own)
-sources/
-wiki/pages/
-wiki/index.md
-wiki/log.md
-skills/
+.vscode/
