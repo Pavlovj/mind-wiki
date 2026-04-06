@@ -7,7 +7,7 @@ Works seamlessly with [Obsidian](https://obsidian.md) — wikilinks, graph view,
 ## Install
 
 ```bash
-npx add-skill pavlovj/mind-wiki
+npx skills add pavlovj/mind-wiki
 ```
 
 ## Quick Start
