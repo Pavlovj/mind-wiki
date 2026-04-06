@@ -1,0 +1,26 @@
+{
+  "name": "mind-wiki-marketplace",
+  "owner": {
+    "name": "pavlovj",
+    "email": "jesaja.pavlovic@gmail.com"
+  },
+  "metadata": {
+    "description": "Mind Wiki plugin marketplace",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "mind-wiki",
+      "source": "./",
+      "description": "Typed personal knowledge wiki with 7 entity types, classify-before-extract, and optional MCP server.",
+      "category": "knowledge-management",
+      "tags": [
+        "wiki",
+        "knowledge-base",
+        "second-brain",
+        "obsidian",
+        "ingest"
+      ]
+    }
+  ]
+}

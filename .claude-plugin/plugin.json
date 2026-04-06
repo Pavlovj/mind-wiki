@@ -1,0 +1,26 @@
+{
+  "name": "mind-wiki",
+  "description": "A typed, compounding personal knowledge wiki skill. 7 entity types, classify-before-extract pipeline, progressive disclosure, cross-domain tagging, and optional MCP server for remote access.",
+  "version": "0.1.0",
+  "author": {
+    "name": "pavlovj",
+    "url": "https://github.com/pavlovj"
+  },
+  "commands": [
+    "./commands/setup.md",
+    "./commands/setup-mcp.md"
+  ],
+  "homepage": "https://github.com/pavlovj/mind-wiki",
+  "repository": "https://github.com/pavlovj/mind-wiki",
+  "license": "MIT",
+  "keywords": [
+    "wiki",
+    "knowledge-base",
+    "second-brain",
+    "obsidian",
+    "personal-wiki",
+    "ingest",
+    "rag",
+    "karpathy"
+  ]
+}
